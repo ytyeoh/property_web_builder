@@ -46,33 +46,7 @@ en:
     bg: Bulgarian
     sqmt: Square Meters
     sqft: Square Feet
-    cad: Canadian Dollar
-    ars: Argentinan Peso
-    aud: Australian Dollar
-    mxn: Mexican Peso
-    gbp: UK Pounds
-    usd: US Dollars
-    eur: Euros
-    inr: Indian Rupee
-    chf: Swiss Franc
-    cny: Chinese Yuan Renminbi
-    clp: Chilean Peso
-    rub: Russian Ruble
-    brl: Brazilian Real
-    zar: South African Rand
-    hkd: Hong Kong Dollar
-    vnd: Vietnamese Dong
-    try: Turkish Lira
-    pln: Polish Zloty
-    ron: Romanian Leu
-    ngn: Nigerian Naira
-    ghs: Ghanaian Cedi
-    dkk: Danish Krone
-    czk: Czech Koruna
-    sek: Swedish Krona
-    thb: Thai Baht
-    mad: Moroccan Dirham
-    egp: Egyptian Pound
+    myr: Malaysia Ringgit
     pages:
       aboutUs: About us
       sell: Sell
