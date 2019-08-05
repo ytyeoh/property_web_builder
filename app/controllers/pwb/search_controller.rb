@@ -183,7 +183,7 @@ module Pwb
         end
         price_fields = ["for_sale_price_from", "for_sale_price_till", "for_rent_price_from", "for_rent_price_till"]
         if price_fields.include? key
-          currency_string = @current_website.default_currency || "usd"
+          currency_string = @current_website.default_currency || "myr"
           currency = Money::Currency.find currency_string
           # above needed as some currencies like Chilean peso
           # don't have the cents field multiplied by 100

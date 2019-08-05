@@ -5,7 +5,7 @@
   "count_bedrooms": "2",
   "count_bathrooms": "2.5",
   "area_unit": "sqft",
-  "currency": "USD",
+  "currency": "MYR",
   "city": "New York",
   "postal_code": "10023",
   "street_name": "3 Adobe Circle",
@@ -51,7 +51,7 @@
   "for_rent_short_term": 0,
   "visible": true,
   "area_unit": "sqmt",
-  "currency": "USD"
+  "currency": "MYR"
 }, {
   "reference": "bc-pwb-r1",
   "price_sale_current_cents": 0,
@@ -89,7 +89,7 @@
   "for_rent_short_term": true,
   "visible": true,
   "area_unit": "sqmt",
-  "currency": "USD"
+  "currency": "MYR"
 }, {
   "reference": "bc-re-s2",
   "price_sale_current_cents": 5000000,
@@ -127,5 +127,5 @@
   "for_rent_short_term": 0,
   "visible": true,
   "area_unit": "sqmt",
-  "currency": "USD"
+  "currency": "MYR"
 }]

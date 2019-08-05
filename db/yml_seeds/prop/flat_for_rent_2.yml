@@ -25,10 +25,10 @@
   price_sale_current_cents: 0
   price_rental_monthly_current_cents: 50000
   commission_cents: 0
-  commission_currency: USD
+  commission_currency: MYR
   service_charge_yearly_cents: 0
-  service_charge_yearly_currency: USD
-  currency: USD
+  service_charge_yearly_currency: MYR
+  currency: MYR
   prop_origin_key: ''
   prop_state_key: ''
   prop_type_key: ''

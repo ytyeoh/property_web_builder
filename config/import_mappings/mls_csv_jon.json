@@ -60,7 +60,7 @@
     },
     "currency": {
       "fieldName": "currency",
-      "default": "USD"
+      "default": "MYR"
     }
   }
 }]

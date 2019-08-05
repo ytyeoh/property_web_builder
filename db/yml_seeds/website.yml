@@ -25,7 +25,7 @@ supported_currencies: []
 supported_locales: ["en-US","es-MX"]
 default_client_locale: "en-US"
 default_admin_locale: "en-US"
-default_currency: "USD"
+default_currency: "MYR"
 #     enum area_unit: { sqmt: 0, sqft: 1 }
 default_area_unit: 0
 social_media: {
