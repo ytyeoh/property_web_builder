@@ -46,6 +46,7 @@ bg:
     bg: Български
     sqmt: кв. м
     sqft: кв. футове
+    myr: Ringgit Malaysia
     cad: Canadian Dollar
     ars: Argentinan Peso
     aud: Australian Dollar
@@ -56,23 +57,6 @@ bg:
     inr: Indian Rupee
     chf: Swiss Franc
     cny: Chinese Yuan Renminbi
-    clp: Chilean Peso
-    rub: Russian Ruble
-    brl: Brazilian Real
-    zar: South African Rand
-    hkd: Hong Kong Dollar
-    vnd: Vietnamese Dong
-    try: Turkish Lira
-    pln: Polish Zloty
-    ron: Romanian Leu
-    ngn: Nigerian Naira
-    ghs: Ghanaian Cedi
-    dkk: Danish Krone
-    czk: Czech Koruna
-    sek: Swedish Krona
-    thb: Thai Baht
-    mad: Moroccan Dirham
-    egp: Egyptian Pound
     pages:
       aboutUs: За нас
       sell: Продай имот
